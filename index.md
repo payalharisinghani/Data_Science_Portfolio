@@ -5,8 +5,8 @@
 ### Data Visualization 
 
 [Project 1 Title](/sample_page)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<a href="default.asp"><img src="images/dummy_thumbnail.jpg?raw=true" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<a href="default.asp"><img src="images/dummy_thumbnail.jpg?raw=true" alt="HTML tutorial"></a>
 
 
 ---
