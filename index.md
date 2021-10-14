@@ -7,6 +7,7 @@
 [Project 1 Title](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <!-- <a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a> -->
+<html>
 <style>
   .image {
   opacity: 1;
@@ -46,6 +47,7 @@
 <a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" class="image" style="width:42px;height:42px;"></a>
   
 </style>
+</html>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
