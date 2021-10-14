@@ -9,7 +9,7 @@
 <!-- <a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a> -->
 <html>
 <style>
-  .image {
+.image {
   opacity: 1;
 <!--   display: block;
   width: 100%;
@@ -17,7 +17,6 @@
   transition: .5s ease;
   backface-visibility: hidden;
 }
-
 .middle {
   transition: .5s ease;
   opacity: 0;
