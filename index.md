@@ -5,48 +5,9 @@
 ### Data Visualization 
 
 [Project 1 Title](/sample_page)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <!-- <a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a> -->
-<html>
-<style>
-.image {
-  opacity: 1;
-<!--   display: block;
-  width: 100%;
-  height: auto; -->
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
 
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #04AA6D;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
-  
-<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" class="image" style="width:42px;height:42px;"></a>
-  
-</style>
-</html>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
