@@ -4,8 +4,9 @@
 
 ### Data Visualization 
 
-[Project 1 Title](/sample_page)
+<!-- [Project 1 Title](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+Project 1 Title
 <a href="default.asp"><img src="images/dummy_thumbnail.jpg?raw=true" alt="HTML tutorial"></a>
 
 
