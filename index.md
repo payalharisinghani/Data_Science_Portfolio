@@ -6,11 +6,11 @@
 
 <!-- [Project 1 Title](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-Project 1 Title
+Superstore Dashboard (Sample data)
 <a href="https://app.powerbi.com/reportEmbed?reportId=f406b614-7683-4d7e-9ca8-e786048293c1&autoAuth=true&ctid=1aa51068-11a6-4bd2-8646-1fff31a30ffc&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"><img src="images/Superstore_dashboard_image.png?raw=true" alt="HTML tutorial"></a>
 
 
----
+<!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -18,7 +18,7 @@ Project 1 Title
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+--- -->
 
 ### Certifications
 
